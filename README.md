@@ -33,7 +33,7 @@ Review the API endpoints available on the **API Testing** section. Choose a few 
   - Assertions or validations (e.g., status code, response body)
   - Any exploratory findings
 
-### Section 3: Test Case Design (15 minutes)
+### Section 3: Test Case Design
 
 Design **3–5 additional test scenarios** not already listed on the site (e.g., complex user flows, negative edge cases). Provide:
 - Feature or flow description
